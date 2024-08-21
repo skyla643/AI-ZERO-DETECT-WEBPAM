@@ -1,0 +1,2 @@
+# AI-ZERO-DETECT-WEBPAM
+ Pamphlet of AI-DEC-SEC
